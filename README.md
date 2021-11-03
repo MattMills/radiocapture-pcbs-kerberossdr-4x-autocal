@@ -32,8 +32,12 @@ Coming soon?
 ## Credits
 
 Original design by UB9MAS: https://oshwlab.com/ub9mas/4x-antenna-switcher-pe4259
+
 Updated design by Akhil Sam (via Upwork).
+
 Manufactured by RadioCapture.com / Matt Mills in Shenzen, China (JLCPCB)
+
+
 
 If you have the need to switch 4 antenna inputs between an output and a 50 ohm load, that's all it does.
 
