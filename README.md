@@ -3,6 +3,10 @@
 
 #### Current (only) production run: v1.0 2021.09.a
 
+
+![Image of kerberosSDR 4x Autocal board](kerberosSDR 4x autocal board.jpg)
+
+
 ## What is it?
 
 This repo contains data for the RadioCapture.com KerberosSDR 4x Autocal board. It connects internally in the KerberosSDR to eliminate the need to disconnect and reconnect antennas during calibration, and provides a 50 ohm load for the noise source to output into. It is connected in between the existing antenna inputs and connections are soldered for 3.3v, ground, and control voltage which is provided via the noise source LED. 
