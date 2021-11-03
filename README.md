@@ -4,7 +4,7 @@
 #### Current (only) production run: v1.0 2021.09.a
 
 
-![Image of kerberosSDR 4x Autocal board](kerberosSDR 4x autocal board.jpg)
+[Image of kerberosSDR 4x Autocal board](kerberosSDR 4x autocal board.jpg)
 
 
 ## What is it?
